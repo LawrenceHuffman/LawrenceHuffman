@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Lawrence Huffman
 
-<!--
-**LawrenceHuffman/LawrenceHuffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an accounting student at the University of South Florida working toward becoming a Certified Public Accountant (CPA). I am interested in accounting and using technology to analyze data and improve decision-making.
 
-Here are some ideas to get you started:
+## Education
+- University of South Florida
+- Major: Accounting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career Goals
+- Become a CPA
+- Work in accounting or financial analysis
+- Continue developing skills in data analysis and business technology
+
+## Skills & Tools
+- Microsoft Excel
+- Python
+- Data analysis concepts
+- Financial and accounting principles
