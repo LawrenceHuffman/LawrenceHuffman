@@ -4,7 +4,7 @@ I am an accounting student at the University of South Florida working toward bec
 
 ## Education
 - University of South Florida
-- Major: Accounting
+- Major: Accountancy and Analytics
 
 ## Career Goals
 - Become a CPA
